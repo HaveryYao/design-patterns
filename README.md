@@ -1,0 +1,15 @@
+# 设计模式
+## 创建型
+- 简单工厂模式
+- [工厂模式](DesignPatterns/Creational/Factory/README.md)
+- [抽象工厂](DesignPatterns/Creational/AbstractFactory/README.md)
+- [建造者模式](DesignPatterns/Creational/Builder/README.md)
+- [单例模式](DesignPatterns/Creational/Singleton/README.md)
+- [原型模式](DesignPatterns/Creational/Prototype/README.md)
+## 设计模式六大原则
+- 开闭原则
+- 依赖倒置原则
+- 里氏替换原则
+- 迪米特法则
+- 单一职责
+- 接口隔离
