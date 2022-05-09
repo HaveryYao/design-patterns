@@ -8,6 +8,7 @@
 - [原型模式](DesignPatterns/Creational/Prototype/README.md)
 ## 结构型
 - [适配器模型](DesignPatterns/Structural/Adapter/README.md)
+- [桥接模式](DesignPatterns/Structural/Bridge/README.md)
 ## 设计模式六大原则
 - 开闭原则
 - 依赖倒置原则
