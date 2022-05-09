@@ -6,6 +6,8 @@
 - [建造者模式](DesignPatterns/Creational/Builder/README.md)
 - [单例模式](DesignPatterns/Creational/Singleton/README.md)
 - [原型模式](DesignPatterns/Creational/Prototype/README.md)
+## 结构型
+- [适配器模型](DesignPatterns/Structural/Adapter/README.md)
 ## 设计模式六大原则
 - 开闭原则
 - 依赖倒置原则
