@@ -28,6 +28,7 @@ class FlyweightTest extends TestCase
         $website = $factory->getWebSiteCategory($type);
         $user = new User('test');
         $website->use($user);
+        $this->assertSame();
         $this->expectOutputString('web site type:' . $type . ' user:' . $user->name);
     }
 
