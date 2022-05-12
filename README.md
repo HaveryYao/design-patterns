@@ -11,6 +11,7 @@
 - [桥接模式](DesignPatterns/Structural/Bridge/README.md)
 - [享元模式](DesignPatterns/Structural/Flyweight/README.md)
 - [组合模式](DesignPatterns/Structural/Composite/README.md)
+- [装饰模式](DesignPatterns/Structural/Decorator/README.md)
 ## 设计模式六大原则
 - 开闭原则
 - 依赖倒置原则
