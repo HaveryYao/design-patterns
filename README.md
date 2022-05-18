@@ -1,12 +1,16 @@
 # 设计模式
+
 ## 创建型
+
 - 简单工厂模式
 - [工厂模式](DesignPatterns/Creational/Factory/README.md)
 - [抽象工厂](DesignPatterns/Creational/AbstractFactory/README.md)
 - [建造者模式](DesignPatterns/Creational/Builder/README.md)
 - [单例模式](DesignPatterns/Creational/Singleton/README.md)
 - [原型模式](DesignPatterns/Creational/Prototype/README.md)
+
 ## 结构型
+
 - [适配器模型](DesignPatterns/Structural/Adapter/README.md)
 - [桥接模式](DesignPatterns/Structural/Bridge/README.md)
 - [享元模式](DesignPatterns/Structural/Flyweight/README.md)
@@ -14,7 +18,13 @@
 - [装饰模式](DesignPatterns/Structural/Decorator/README.md)
 - [代理模式](DesignPatterns/Structural/Proxy/README.md)
 - [外观模式](DesignPatterns/Structural/Facade/README.md)
+
+## 行为型
+
+- [状态模型](DesignPatterns/Behavioral/State/README.md)
+
 ## 设计模式六大原则
+
 - 开闭原则
 - 依赖倒置原则
 - 里氏替换原则
