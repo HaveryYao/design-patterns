@@ -22,6 +22,7 @@
 ## 行为型
 
 - [状态模型](DesignPatterns/Behavioral/State/README.md)
+- [命令模式](DesignPatterns/Behavioral/State/README.md)
 
 ## 设计模式六大原则
 
