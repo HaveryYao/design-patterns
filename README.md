@@ -2,7 +2,7 @@
 
 ## 创建型
 
-- 简单工厂模式
+- [简单工厂模式]()
 - [工厂模式](DesignPatterns/Creational/Factory/README.md)
 - [抽象工厂](DesignPatterns/Creational/AbstractFactory/README.md)
 - [建造者模式](DesignPatterns/Creational/Builder/README.md)
@@ -26,6 +26,7 @@
 - [迭代器模式](DesignPatterns/Behavioral/Iterator/README.md)
 - [职责链模式](DesignPatterns/Behavioral/ChainOfResponsbility/README.md)
 - [备忘录模式](DesignPatterns/Behavioral/Memento/README.md)
+- [中介者模式](DesignPatterns/Behavioral/Mediator/README.md)
 
 ## 设计模式六大原则
 
