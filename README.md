@@ -25,6 +25,7 @@
 - [命令模式](DesignPatterns/Behavioral/Command/README.md)
 - [迭代器模式](DesignPatterns/Behavioral/Iterator/README.md)
 - [职责链模式](DesignPatterns/Behavioral/ChainOfResponsbility/README.md)
+- [备忘录模式](DesignPatterns/Behavioral/Memento/README.md)
 
 ## 设计模式六大原则
 
