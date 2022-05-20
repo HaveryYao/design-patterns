@@ -30,6 +30,7 @@
 - [观察者模式](DesignPatterns/Behavioral/Observer/README.md)
 - [策略模式](DesignPatterns/Behavioral/Strategy/README.md)
 - [解释器模式](DesignPatterns/Behavioral/Interpreter/README.md)
+- [访问者模式](DesignPatterns/Behavioral/Visitor/README.md)
 
 ## 设计模式六大原则
 
