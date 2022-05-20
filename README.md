@@ -28,6 +28,7 @@
 - [备忘录模式](DesignPatterns/Behavioral/Memento/README.md)
 - [中介者模式](DesignPatterns/Behavioral/Mediator/README.md)
 - [观察者模式](DesignPatterns/Behavioral/Observer/README.md)
+- [策略模式](DesignPatterns/Behavioral/Strategy/README.md)
 
 ## 设计模式六大原则
 
